@@ -1,5 +1,5 @@
 
-this is master branch
+modified  stash
 
-push from admin branch
-
+changed stash
+Stashed changes
